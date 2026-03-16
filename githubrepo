@@ -1,0 +1,2 @@
+(base) hovegant@Vegants-Mac-mini final_project % curl -s https://api.github.com/repos/Vegant12/expressBookReviews | jq '.parent.full_name'
+"ibm-developer-skills-network/expressBookReviews"
