@@ -1,0 +1,3 @@
+(base) hovegant@Vegants-Mac-mini expressBookReviews % 
+curl http://localhost:5300/author/Samuel%20Beckett
+[{"author":"Samuel Beckett","title":"Molloy, Malone Dies, The Unnamable, the trilogy","reviews":{}}]%   

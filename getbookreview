@@ -1,0 +1,3 @@
+(base) hovegant@Vegants-Mac-mini expressBookReviews % curl http://localhost:5300/rev
+iew/1
+{"Alice":"A powerful story about culture and colonialism.","Bob":"Very deep and emotional."}%           

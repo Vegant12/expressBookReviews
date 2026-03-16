@@ -1,0 +1,2 @@
+(base) hovegant@Vegants-Mac-mini expressBookReviews % curl http://localhost:5300/isbn/1
+{"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}%  

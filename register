@@ -1,0 +1,5 @@
+(base) hovegant@Vegants-Mac-mini final_project % curl -X POST http://localhost:5300/register \
+-H "Content-Type: application/json" \
+-d '{"username":"john","password":"12345"}'
+{"message":"User successfully registered. Now you can login"}%                      
+(base) hovegant@Vegants-Mac-mini final_project % 

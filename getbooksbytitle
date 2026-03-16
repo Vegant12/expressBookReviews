@@ -1,0 +1,3 @@
+(base) hovegant@Vegants-Mac-mini expressBookReviews % curl http://localhost:5300/tit
+le/Fairy%20tales
+[{"author":"Hans Christian Andersen","title":"Fairy tales","reviews":{}}]% 
